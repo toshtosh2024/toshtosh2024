@@ -1,12 +1,22 @@
-# Hi, I'm Toshiie Shiomi 👋
+<div align="center">
+
+# Toshiie Shiomi
 
 **Engineering Student @ The University of Tokyo 🇯🇵**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://toshiie-shiomi.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shio_tosh)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shiomi.toshiie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toshiie-shiomi-28367b38b/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UToshi0503)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toshtosh2024)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiomi0503@g.ecc.u-tokyo.ac.jp)
+
+</div>
 
 Interested in **Artificial Intelligence, Machine Learning, and the intersection of technology and society.**
 
 I enjoy understanding how things work, building practical solutions, and exploring how emerging technologies can create meaningful real-world impact.
-
-🌐 **[Personal Website](https://toshiie-shiomi.vercel.app)** · 💻 **[GitHub](https://github.com/toshtosh2024)** · 📊 **[Kaggle](https://www.kaggle.com/tosh17)**
 
 ---
 
